@@ -7,7 +7,7 @@ dict1={'I':1,'XI':11,
         'VII':7,'XVII':17,
         'VIII':8,'XVIII':18,
 	'IX':9,	'XIX':19,
-        'X':10,'XX':20,
+        'X':10,'XX':20
       }
 str1=input()
 print(dict1[str1])
