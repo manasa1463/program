@@ -1,6 +1,6 @@
 n=input()
-if float(n):
-    print("yes")
-else:
+try:
+    if float(n):
+        print("yes")
+except ValueError:
     print("no")
-   
