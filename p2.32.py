@@ -13,6 +13,6 @@ l1=[int(i) for i in input().split()]
 u1=(len(l1)-1)
 r1=binary(l1,0,u1,k1)
 if(r1==True):
-    print("yes")
+    print("Yes")
 else:
-    print("no")    
+    print("No")    
