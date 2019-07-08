@@ -7,4 +7,7 @@ while(n>=(p**i)):
         break
     else:
         i=i+1
-print(flag)   
+if flag==True:
+   print("yes",end='')
+else:
+   print("no",end='')    
