@@ -1,4 +1,4 @@
-a1,a2,a3=input().split()
+a1,a2,a3=map(int,input().split())
 if a1+a2+a3==180:
     print("yes",end='')
 else:
