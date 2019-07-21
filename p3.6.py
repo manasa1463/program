@@ -7,4 +7,4 @@ for i in k:
         flag=True
         break
 if flag==False:
-    print(-1)       
+    print("unique")       
