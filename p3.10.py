@@ -4,7 +4,7 @@ b=input().split()
 a=''.join(sorted(a))
 b=''.join(sorted(b))
 if b in a:
-    print("yes")
+    print("Yes")
 else:
-    print("no")    
+    print("No")    
 
