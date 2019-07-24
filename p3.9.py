@@ -1,3 +1,4 @@
+n=int(input())
 l=list(map(int,input().split()))
 sum1=l[0]+l[1]
 lwr=0
